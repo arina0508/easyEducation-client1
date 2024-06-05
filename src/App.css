@@ -1,0 +1,35 @@
+h1{
+  color: #B47020;
+   font-size: 90px;
+   font-family: Ruslan Display;
+   font-weight: 400;
+   line-height: 67.86px;
+   word-wrap: break-word;
+   text-align: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+h2 {
+  color: #65AA4C;
+  font-size: 90px;
+  font-family: Ruslan Display;
+  font-weight: 400;
+  line-height: 67.86px;
+  word-wrap: break-word;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p{
+  font-family: Merriweather;
+}
+
+h3{
+  font-family: Merriweather;
+}
+
+
